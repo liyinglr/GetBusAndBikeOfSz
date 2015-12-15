@@ -1,0 +1,7 @@
+bin/*
+packages/*
+*.csproj
+*.user
+*.suo
+Properties/*
+obj/*
